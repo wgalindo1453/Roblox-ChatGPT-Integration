@@ -1,7 +1,7 @@
 ![Project Banner](robloxchatgpt2.gif)
 
 # Roblox-ChatGPT-Integration
-"Roblox integration with OpenAI's ChatGPT: An interactive in-game computer model allowing players to converse with ChatGPT, showcasing server-client communication and GUI design."  This description provides a brief overview of the main features and purpose of the repository.
+"Roblox integration with OpenAI's ChatGPT: An interactive in-game computer model allowing players to converse with ChatGPT, showcasing server-client communication and GUI design."  
 
 This repository contains the code and assets for integrating OpenAI's ChatGPT with a Roblox game. Players can interact with a computer model in the game, type their queries, and receive responses from ChatGPT.
 
