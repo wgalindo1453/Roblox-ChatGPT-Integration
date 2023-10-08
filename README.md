@@ -18,7 +18,7 @@ This repository contains the code and assets for integrating OpenAI's ChatGPT wi
 
 ## Setup
 
-1. Clone this repository.
+1. Clone this repository to your Roblox Studio.
 2. Import the assets and scripts into your Roblox game.
 3. Ensure the RemoteEvent is set up in `ReplicatedStorage`.
 4. Adjust the API key and endpoint in the `ServerScript.lua`.
